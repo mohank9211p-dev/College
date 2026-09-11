@@ -1,0 +1,12 @@
+{
+  "name": "hoshi-no-tani",
+  "version": "1.0.0",
+  "description": "Hoshi-no-Tani — The Valley of Stars",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "dependencies": {
+    "three": "^0.160.0"
+  }
+}

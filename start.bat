@@ -1,0 +1,3 @@
+@echo off
+echo Starting Hoshi-no-Tani (The Valley of Stars)...
+start "" "%~dp0index.html"
